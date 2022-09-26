@@ -1,0 +1,8 @@
+.contact{
+    transition:all 0.3s;
+
+}
+
+.contact:hover{
+    transform:scale(1.4);
+}

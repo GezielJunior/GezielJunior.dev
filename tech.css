@@ -1,0 +1,8 @@
+.tech{
+    transition:all 0.3s;
+
+}
+
+.tech:hover{
+    transform:scale(1.4);
+}

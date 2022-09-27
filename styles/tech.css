@@ -1,3 +1,8 @@
+.techList{
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .tech{
     transition:all 0.3s;
 
